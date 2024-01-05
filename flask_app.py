@@ -23,6 +23,3 @@ def get_move(depth, fen):
 def test_get(tester):
     return tester
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
